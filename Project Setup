@@ -1,16 +1,85 @@
-I'm building a [PROJECT TYPE - e.g., "Personal Task Tracker" 
+## 🛠 Tech Stack
+
+### Backend
+- Python 3.12
+- Flask
+
+### Database
+- SQLite
+- SQLAlchemy
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Version Control
+- Git
+- GitHub
+
+### Testing
+- Pytest
+
+### Code Quality
+- Black
+- Ruff
 
 
-Tech stack: Python,Flask,SQLite,HTML,CSS,and Git/GitHub
+
+## Folder structure :
 
 personal-task-tracker/
 │
-├── app.py
-├── README.md
+├── app/
+│   │
+│   ├── __init__.py
+│   ├── config.py
+│   │
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── task.py
+│   │
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   └── task_routes.py
+│   │
+│   ├── services/
+│   │   └── task_service.py
+│   │
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   └── tasks.html
+│   │
+│   └── static/
+│       ├── css/
+│       │   └── style.css
+│       │
+│       ├── js/
+│       │   └── app.js
+│       │
+│       └── images/
+│
+├── tests/
+│   ├── test_routes.py
+│   └── test_tasks.py
+│
+├── docs/
+│   ├── setup.md
+│   ├── contribution-guide.md
+│   └── architecture.md
+│
+├── database/
+│   └── tasks.db
+│
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows/
+│       └── ci.yml
+│
+├── .gitignore
+├── LICENSE
 ├── requirements.txt
-│
-├── templates/
-│   └── index.html
-│
-└── static/
-    └── style.css
+├── README.md
+└── run.py
