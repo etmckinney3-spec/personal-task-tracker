@@ -1,0 +1,34 @@
+I'm building [Personal-Task-Tracker]
+
+I am creating this ap because I want to make a app that is simple that helps users keep track of daily tasks or for work so they can see what they need to complete and what they have already completed. 
+
+Create a task- Add task with a title and descrpiton 
+View tasks- see all current tasks in one place
+Complete tasks- Mark task as completed
+Edit/Delete Tasks- Change or move tasks
+Task status/filtering- Filter tasks by to do or complete
+
+
+Tech stack: 
+-Python
+-Flask
+-SQLite
+-HTML
+-CSS
+-GitHub
+
+1.Set up the files for my task tracker.
+2.Create the basic layout of the website using HTML.
+3.Add the task input and buttons using HTML.
+4.Use CSS to make the task tracker look clean and easy to use.
+5.Set up Python to handle the tasks and user actions.
+6.Add the ability to create and save tasks.
+7.Add the ability to mark tasks as completed.
+8.Add the ability to edit or delete tasks.
+9.Add a way to filter between completed and unfinished tasks.
+10.Test everything and fix any bugs.
+11.Make sure the website works correctly and looks good.
+12.Upload the project to GitHub.
+
+
+
