@@ -1,8 +1,14 @@
 I'm building [Personal-Task-Tracker]
 
-I want to create a simple app that helps users keep track of their daily tasks and see what they still need to complete
-
-Tech stack: Python,Flask,SQLite,HTML,CSS,and GitHub
-
 I am creating this ap because I want to make a app that is simple that helps users keep track of daily tasks or for work so they can see what they need to complete and what they have already completed. 
+
+
+Tech stack: 
+-Python
+-Flask
+-SQLite
+-HTML
+-CSS
+-GitHub
+
 
