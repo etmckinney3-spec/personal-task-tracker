@@ -7,14 +7,3 @@ Tech stack:
 -PostgreSQL
 -Heroku
 
-personal-task-tracker/
-│
-├── app.py
-├── README.md
-├── requirements.txt
-│
-├── templates/
-│   └── index.html
-│
-└── static/
-    └── style.css
