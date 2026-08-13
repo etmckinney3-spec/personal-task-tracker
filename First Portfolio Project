@@ -10,12 +10,10 @@ Task status/filtering- Filter tasks by to do or complete
 
 
 Tech stack: 
--Python
+-React
 -Flask
--SQLite
--HTML
--CSS
--GitHub
+-PostgreSQL
+-Heroku
 
 1.Set up the files for my task tracker.
 2.Create the basic layout of the website using HTML.
