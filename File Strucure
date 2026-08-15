@@ -1,0 +1,10 @@
+personal-task-tracker/
+│
+├── app.py
+├── README.md
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    └── style.css
